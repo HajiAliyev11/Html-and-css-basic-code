@@ -1,0 +1,27 @@
+.banner {
+    width: 650px;
+    height: 300px;
+    background: linear-gradient(to right, aqua, darkblue);
+    border-radius: 15px;
+    display: flex;
+    margin-top: 50px;
+}
+.Adliq {
+    color: white;
+}
+.metn {
+    color: white;
+}
+.Battan {
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+}
+.sakil {
+    margin-top: -20px;
+    height: 280px;
+    border-radius: 15px;
+}
+.nem {
+    padding-left: 12px;
+}
